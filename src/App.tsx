@@ -294,7 +294,7 @@ function App() {
               
               <div>
                 <label htmlFor="businessNeeds" className="block text-sm font-medium text-gray-300 mb-2">
-                  Tell us about your business needs
+                  Tell us about your business, include a website if available.
                 </label>
                 <textarea
                   id="businessNeeds"
